@@ -1,0 +1,462 @@
+{
+  "results": [
+    {
+      "columns": [
+        "user",
+        "entity"
+      ],
+      "data": [
+        {
+          "graph": {
+            "nodes": [
+              {
+                "id": "电子化学品",
+                "labels": [
+                  "1"
+                ],
+                "properties": {
+                  "value": "电子化学品"
+                }
+              },
+              {
+                "id": "电子特气",
+                "labels": [
+                  "2"
+                ],
+                "properties": {
+                  "value": "电子特气"
+                }
+              },
+              {
+                "id": "湿化学品",
+                "labels": [
+                  "3"
+                ],
+                "properties": {
+                  "value": "湿化学品",
+                  "country": "US"
+                }
+              },
+              {
+                "id": "光刻胶",
+                "labels": [
+                  "4"
+                ],
+                "properties": {
+                  "value": "光刻胶"
+                }
+              },
+              {
+                "id": "蚀刻气体",
+                "labels": [
+                  "5"
+                ],
+                "properties": {
+                  "value": "蚀刻气体"
+                }
+              },
+              {
+                "id": "离子注入",
+                "labels": [
+                  "6"
+                ],
+                "properties": {
+                  "value": "离子注入"
+                }
+              },
+              {
+                "id": "CVD气体",
+                "labels": [
+                  "7"
+                ],
+                "properties": {
+                  "value": "CVD气体"
+                }
+              },
+              {
+                "id": "掺杂气体",
+                "labels": [
+                  "8"
+                ],
+                "properties": {
+                  "name": "掺杂气体",
+                  "title": "掺杂气体",
+                  "description": "掺杂气体",
+                  "url": "https://www.baidu.com"
+                }
+              },
+              {
+                "id": "清洗",
+                "labels": [
+                  "9"
+                ],
+                "properties": {
+                  "value": "清洗"
+                }
+              },
+              {
+                "id": "蚀刻",
+                "labels": [
+                  "10"
+                ],
+                "properties": {
+                  "name": "蚀刻"
+                }
+              },
+              {
+                "id": "显影",
+                "labels": [
+                  "11"
+                ],
+                "properties": {
+                  "name": "显影"
+                }
+              },
+              {
+                "id": "溶剂",
+                "labels": [
+                  "12"
+                ],
+                "properties": {
+                  "name": "溶剂"
+                }
+              },
+              {
+                "id": "研磨",
+                "labels": [
+                  "13"
+                ],
+                "properties": {
+                  "name": "研磨"
+                }
+              },
+              {
+                "id": "剥离",
+                "labels": [
+                  "14"
+                ],
+                "properties": {
+                  "name": "剥离"
+                }
+              },
+              {
+                "id": "AZ1512",
+                "labels": [
+                  "15"
+                ],
+                "properties": {
+                  "type": "AZ1512"
+                }
+              },
+              {
+                "id": "AZ1517",
+                "labels": [
+                  "16"
+                ],
+                "properties": {}
+              },
+              {
+                "id": "AZ1518",
+                "labels": [
+                  "17"
+                ],
+                "properties": {
+                  "lang": "en_us"
+                }
+              },
+              {
+                "id": "AZ4620",
+                "labels": [
+                  "18"
+                ],
+                "properties": {
+                  "value": "AZ4620"
+                }
+              },
+              {
+                "id": "AZ9260",
+                "labels": [
+                  "19"
+                ],
+                "properties": {
+                  "value": "AZ9260"
+                }
+              },
+              {
+                "id": "SPR220",
+                "labels": [
+                  "20"
+                ],
+                "properties": {
+                  "description": "SPR220"
+                }
+              },
+              {
+                "id": "STR1075",
+                "labels": [
+                  "21"
+                ],
+                "properties": {
+                  "description": "STR1075."
+                }
+              },
+              {
+                "id": "三氟化硼(BF3)",
+                "labels": [
+                  "22"
+                ],
+                "properties": {
+                  "description": "三氟化硼(BF3).",
+                  "type": "function"
+                }
+              },
+              {
+                "id": "三氟化氮（NF3)",
+                "labels": [
+                  "23"
+                ],
+                "properties": {
+                  "description": "三氟化氮（NF3)."
+                }
+              },
+              {
+                "id": "四氟化硅（SiF4)",
+                "labels": [
+                  "24"
+                ],
+                "properties": {}
+              },
+              {
+                "id": "四氟化碳(CF4)",
+                "labels": [
+                  "25"
+                ],
+                "properties": {
+                  "url": "四氟化碳(CF4)"
+                }
+              }
+            ],
+            "relationships": [
+              {
+                "id": "1",
+                "startNode": "电子化学品",
+                "endNode": "电子特气",
+                "properties": {
+                  "from": 1473581532586
+                }
+              },
+              {
+                "id": "2",
+                "startNode": "电子化学品",
+                "endNode": "湿化学品",
+                "properties": {
+                  "from": 1473581532586
+                }
+              },
+              {
+                "id": "3",
+                "startNode": "电子化学品",
+                "endNode": "光刻胶",
+                "properties": {
+                  "from": 1473581532586
+                }
+              }
+
+              ,{
+                "id": "4",
+                "startNode": "电子特气",
+                "endNode": "蚀刻气体",
+                "properties": {
+                  "from": 1473581532586
+                }
+              }
+               ,{
+                "id": "5",
+                "startNode": "电子特气",
+                "endNode": "离子注入",
+                "properties": {
+                  "from": 1473581532586
+                }
+              }
+               ,{
+                "id": "6",
+                "startNode": "电子特气",
+                "endNode": "CVD气体",
+                "properties": {
+                  "from": 1473581532586
+                }
+              }
+               ,{
+                "id": "7",
+                "startNode": "电子特气",
+                "endNode": "掺杂气体",
+                "properties": {
+                  "from": 1473581532586
+                }
+              }
+
+               ,{
+                "id": "8",
+                "startNode": "湿化学品",
+                "endNode": "清洗",
+                "properties": {
+                  "from": 1473581532586
+                }
+              }
+               ,{
+                "id": "9",
+                "startNode": "湿化学品",
+                "endNode": "蚀刻",
+                "properties": {
+                  "from": 1473581532586
+                }
+              }
+               ,{
+                "id": "10",
+                "startNode": "湿化学品",
+                "endNode": "显影",
+                "properties": {
+                  "from": 1473581532586
+                }
+              }
+               ,{
+                "id": "11",
+                "startNode": "湿化学品",
+                "endNode": "溶剂",
+                "properties": {
+                  "from": 1473581532586
+                }
+              }
+               ,{
+                "id": "12",
+                "startNode": "湿化学品",
+                "endNode": "溶剂",
+                "properties": {
+                  "from": 1473581532586
+                }
+              }
+               ,{
+                "id": "13",
+                "startNode": "湿化学品",
+                "endNode": "研磨",
+                "properties": {
+                  "from": 1473581532586
+                }
+              }
+               ,{
+                "id": "14",
+                "startNode": "湿化学品",
+                "endNode": "剥离",
+                "properties": {
+                  "from": 1473581532586
+                }
+              }
+
+
+               ,{
+                "id": "15",
+                "startNode": "光刻胶",
+                "endNode": "AZ1512",
+                "properties": {
+                  "from": 1473581532586
+                }
+              }
+
+              
+             ,{
+                "id": "16",
+                "startNode": "光刻胶",
+                "endNode": "AZ1517",
+                "properties": {
+                  "from": 1473581532586
+                }
+              }
+               ,{
+                "id": "16",
+                "startNode": "光刻胶",
+                "endNode": "AZ1518",
+                "properties": {
+                  "from": 1473581532586
+                }
+              }
+
+               ,{
+                "id": "16",
+                "startNode": "光刻胶",
+                "endNode": "AZ4620",
+                "properties": {
+                  "from": 1473581532586
+                }
+              }
+
+               ,{
+                "id": "17",
+                "startNode": "光刻胶",
+                "endNode": "AZ9260",
+                "properties": {
+                  "from": 1473581532586
+                }
+              }
+
+               ,{
+                "id": "18",
+                "startNode": "光刻胶",
+                "endNode": "SPR220",
+                "properties": {
+                  "from": 1473581532586
+                }
+              }
+
+
+               ,{
+                "id": "19",
+                "startNode": "光刻胶",
+                "endNode": "STR1075",
+                "properties": {
+                  "from": 1473581532586
+                }
+              }
+
+               ,{
+                "id": "20",
+                "startNode": "蚀刻气体",
+                "endNode": "三氟化硼(BF3)",
+                "properties": {
+                  "from": 1473581532586
+                }
+              }
+               ,{
+                "id": "21",
+                "startNode": "蚀刻气体",
+                "endNode": "三氟化氮（NF3)",
+                "properties": {
+                  "from": 1473581532586
+                }
+              }
+
+               ,{
+                "id": "22",
+                "startNode": "蚀刻气体",
+                "endNode": "四氟化硅（SiF4)",
+                "properties": {
+                  "from": 1473581532586
+                }
+              }
+               ,{
+                "id": "23",
+                "startNode": "蚀刻气体",
+                "endNode": "四氟化碳(CF4)",
+                "properties": {
+                  "from": 1473581532586
+                }
+              }
+
+
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "errors": []
+}
